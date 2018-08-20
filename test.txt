@@ -1,2 +1,1 @@
-hi this is a test file
-adding new commit 
+this is a sample file for git test
